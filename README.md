@@ -1,2 +1,2 @@
 # sharp-promise
-Promises/A+ wrapper for System.Threading.Tasks
+Promises-styled wrapper for System.Threading.Tasks
